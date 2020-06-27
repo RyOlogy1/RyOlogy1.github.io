@@ -13,15 +13,11 @@ body {
     justify-content: flex-start;
     width: 100%;
     background-color: black;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 #banner-image {
     width: 100%;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
-}
-
-.download-widget {
-    align
 }
